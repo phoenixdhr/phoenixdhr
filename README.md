@@ -43,8 +43,3 @@ macroeconomics.
 - 📫 How to reach me: [Hache_Cripto](https://twitter.com/HACHE_CRIPTO) 
 - 🔮 As I look to the future, I am committed to continuing my professional growth and development, with a particular focus on blockchain and web3. 
 
-
-![GitHubstats](https://github-readme-stats.vercel.app/api?username=phoenixdhr&show_icons=true)
-
-
-
