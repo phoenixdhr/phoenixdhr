@@ -38,7 +38,7 @@ macroeconomics.
 
 <h3>🧑‍💻 About me:</h3>
 
-- 🌱 I’m currently learning Ethers.js, SDK Moralis, Rust, and Substrate 
+- 🌱 I’m currently learning SDK Moralis, Rust, and Substrate 
 - 👯 I’m looking to collaborate on decentralized projects. 
 - 📫 How to reach me: [Hache_Cripto](https://twitter.com/HACHE_CRIPTO) 
 - 🔮 As I look to the future, I am committed to continuing my professional growth and development, with a particular focus on blockchain and web3. 
