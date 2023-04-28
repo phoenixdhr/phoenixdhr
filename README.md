@@ -46,19 +46,19 @@ macroeconomics.
 
 <h3>💼 Portfolio:</h3>
 
-- [NFT Marketplace](https://github.com/phoenixdhr/FrondEnd-Web3): NFTPunks is a decentralized application (dApp) built on Ethereum that allows users to buy, sell and trade non-fungible tokens (NFTs). The front-end is built using React.js and Web3.js, while the back-end utilizes Solidity smart contracts.
+- [NFT Marketplace](https://github.com/phoenixdhr/FrondEnd-Web3): NFTPunks is a decentralized application (dApp) built on Ethereum (Sepolia) that allows users to mint NFTs. The front-end is built using Next.js and ethers.js, while the back-end utilizes Solidity smart contracts.
 
-- [RafflePay](https://github.com/CevidevsHackaton/EthGlobalHackaton1): is a dApp that allows users to participate in raffles using Ethereum. The application is built on top of the Ethereum blockchain and uses Solidity smart contracts for implementing the lottery system.
+- [RafflePay](https://github.com/CevidevsHackaton/EthGlobalHackaton1): is a dApp that allows users to participate in raffles using Ethereum. The application is built on Mumbai and uses Solidity smart contracts for implementing the lottery system.
 
-- [Automatic Withdrawal](https://github.com/phoenixdhr/ListenerWithdrawal_ETH_ERC20): is a set of scripts that automate the withdrawal process of funds from a wallet. The scripts are written in Python and make use of the Web3.py library to interact with the Ethereum network.
+- [Automatic Withdrawal](https://github.com/phoenixdhr/ListenerWithdrawal_ETH_ERC20): is a set of scripts that automate the withdrawal process of funds from a wallet. The scripts are written in javascript and make use of the ethers.js to interact with the Ethereum network.
 
-- [Unlock Protocol Integration](https://github.com/phoenixdhr/BluePiece-UnlockProtocol): BluePiece is a web application that integrates the Unlock Protocol to provide access to premium content to paying subscribers. The application is built using React.js and the Unlock Protocol smart contracts.
+- [Unlock Protocol Integration](https://github.com/phoenixdhr/BluePiece-UnlockProtocol): BluePiece is a web application that integrates the Unlock Protocol to provide access to premium content to paying subscribers.
 
 - [Upgradable Contracts](https://github.com/phoenixdhr/ContratosActualizados_Openzeppelin): Contratos Actualizables is a set of scripts that allow for the deployment of upgradable smart contracts. The scripts make use of the OpenZeppelin library to implement the upgradeable contract pattern.
 
 - [Automated Swaps](https://github.com/phoenixdhr/Swap_Automatico_EVM): is a Solidity smart contract that allows for automated swaps between BNB and BUSD on the BSC network. The contract makes use of Pancakeswap for the token exchange.
 
-- [Web_Todo](https://github.com/phoenixdhr/Web_Todo): is a simple web application that allows users to create and manage to-do lists. The application is built using React.js and styled with CSS.
+- [Web_Todo](https://github.com/phoenixdhr/Web_Todo): is a simple web application that allows users to create and manage to-do lists. The application is built using React.js
 
 - [ERC20 Airdrop](https://github.com/phoenixdhr/AirdropERC20): is a Solidity smart contract that allows for the airdrop of ERC20 tokens to a set of addresses. 
 
