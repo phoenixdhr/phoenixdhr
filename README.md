@@ -46,7 +46,7 @@ macroeconomics.
 
 <h3>💼 Portfolio:</h3>
 
-- [NFT Marketplace](https://github.com/phoenixdhr/FrondEnd-Web3): NFTPunks, NFTPunks is a decentralized application (dApp) built on Ethereum that allows users to buy, sell and trade non-fungible tokens (NFTs). The front-end is built using React.js and Web3.js, while the back-end utilizes Solidity smart contracts.
+- [NFT Marketplace](https://github.com/phoenixdhr/FrondEnd-Web3): NFTPunks is a decentralized application (dApp) built on Ethereum that allows users to buy, sell and trade non-fungible tokens (NFTs). The front-end is built using React.js and Web3.js, while the back-end utilizes Solidity smart contracts.
 
 - [RafflePay](https://github.com/CevidevsHackaton/EthGlobalHackaton1): is a dApp that allows users to participate in raffles using Ethereum. The application is built on top of the Ethereum blockchain and uses Solidity smart contracts for implementing the lottery system.
 
