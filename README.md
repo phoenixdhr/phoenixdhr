@@ -19,18 +19,26 @@ macroeconomics.
   <div>
     <img    src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"
     title"solidity" alt="solidity" with="40" height="40"/>
+    <img    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+    title"javascript" alt="javascript" with="40" height="40"/>
+    <img    src="https://docs.rs/-/rustdoc.static/rust-logo-151179464ae7ed46.svg"
+    title"rust" alt="rust" with="40" height="40"/>
+    <img    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+    title"python" alt="python" with="40" height="40"/>
+    <img    src="https://getfoundry.sh/logo.png"
+    title"Foundry" alt="Foundry" with="40" height="40"/>
     <img    src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png"
     title"Hardhat" alt="Hardhat" with="40" height="40"/>
     <img    src="https://www.solodev.com/file/3d5e1296-e69b-11ec-b9ad-0eaef3759f5f/OpenZeppelin-Logo-Icon.png"
     title"Openzeppelin" alt="Openzeppelin" with="40" height="40"/>
     <img    src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png"
     title"Ethers.js" alt="Ethers.js" with="40" height="40"/>
-    <img    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-    title"javascript" alt="javascript" with="40" height="40"/>
+    <img    src="https://avatars.githubusercontent.com/u/109633172?s=48&v=4"
+    title"Wagmi" alt="wagmi" with="40" height="40"/>
     <img    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
     title"react" alt="react" with="40" height="40"/>
-    <img    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-    title"python" alt="python" with="40" height="40"/>
+    <img    src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
+    title"next" alt="next" with="40" height="40"/>
     <img    src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"
     title"nodejs" alt="nodejs" with="40" height="40"/>
   </div>
@@ -38,7 +46,7 @@ macroeconomics.
 
 <h3>🧑‍💻 About me:</h3>
 
-- 🌱 I’m currently learning Next.js, SDK Moralis, Rust, and Substrate 
+- 🌱 I’m currently learning Rust, Substrate, Next.js
 - 👯 I’m looking to collaborate on decentralized projects. 
 - 📫 How to reach me: dreyess@uni.pe
 - 🔮 As I look to the future, I am committed to continuing my professional growth and development, with a particular focus on blockchain and web3. 
